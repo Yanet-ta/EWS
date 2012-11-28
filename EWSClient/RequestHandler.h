@@ -4,7 +4,7 @@
 //
 //  Created by Suraeva Yana on 26.11.12.
 //  Copyright (c) 2012 Сураева Яна. All rights reserved.
-//
+//  Set up request settings
 
 #import <Foundation/Foundation.h>
 #import "ConnectionManager.h"
